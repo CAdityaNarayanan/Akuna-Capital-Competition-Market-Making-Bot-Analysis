@@ -1,0 +1,2 @@
+selection_scope,selection_criterion,selected_cap,selected_calibration_mean_pnl,calibration_episodes_per_scenario,heldout_episodes_per_scenario
+equal-weight average across informed-flow scenarios,highest mean PnL on calibration episodes,2,0.5244666666666667,150,150

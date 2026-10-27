@@ -1,0 +1,5 @@
+history_days,parameter_error,correlation_with_raw_episode_brier,interpretation_note
+30,absolute_ajarai_drift_error,0.6273318255375919,Exploratory association; does not establish causation.
+30,absolute_ajarai_rate_beta_error,0.12342718662035625,Exploratory association; does not establish causation.
+120,absolute_ajarai_drift_error,0.6219216976867663,Exploratory association; does not establish causation.
+120,absolute_ajarai_rate_beta_error,0.04031164061130338,Exploratory association; does not establish causation.

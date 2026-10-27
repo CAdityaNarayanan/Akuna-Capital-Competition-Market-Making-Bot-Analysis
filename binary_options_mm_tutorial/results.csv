@@ -1,0 +1,7 @@
+probability_bias,policy,mean_pnl,mean_fills,p95_peak_inventory,mean_abs_ending_inventory
+-0.1,fixed,1.1521200000000003,54.384,10.0,9.644
+-0.1,inventory_aware,1.3557800000000004,52.816,10.0,8.076
+0.0,fixed,1.6466000000000003,44.394,10.0,4.814
+0.0,inventory_aware,1.71244,50.064,7.0,2.256
+0.1,fixed,1.2315800000000017,55.32,10.0,9.688
+0.1,inventory_aware,1.4129200000000006,53.704,10.0,8.072

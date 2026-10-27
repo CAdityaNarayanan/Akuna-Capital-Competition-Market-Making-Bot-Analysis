@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#172033}.grid{stroke:#e1e6ef;stroke-width:1}.axis{stroke:#475467;stroke-width:1.2}</style>
+<text x="490" y="30" text-anchor="middle" font-size="20" font-weight="700">Brier score versus drift shrinkage factor</text>
+<text x="490" y="52" text-anchor="middle" font-size="12">Lower is better; lambda is selected using calibration episodes only</text>
+<text x="270.0" y="72" text-anchor="middle" font-size="15" font-weight="700">30-day history</text>
+<line class="grid" x1="90" y1="410.0" x2="450" y2="410.0"/>
+<text x="82" y="414.0" text-anchor="end" font-size="10">0.247</text>
+<line class="grid" x1="90" y1="327.5" x2="450" y2="327.5"/>
+<text x="82" y="331.5" text-anchor="end" font-size="10">0.258</text>
+<line class="grid" x1="90" y1="245.0" x2="450" y2="245.0"/>
+<text x="82" y="249.0" text-anchor="end" font-size="10">0.268</text>
+<line class="grid" x1="90" y1="162.5" x2="450" y2="162.5"/>
+<text x="82" y="166.5" text-anchor="end" font-size="10">0.279</text>
+<line class="grid" x1="90" y1="80.0" x2="450" y2="80.0"/>
+<text x="82" y="84.0" text-anchor="end" font-size="10">0.290</text>
+<line class="axis" x1="90" y1="80" x2="90" y2="410"/>
+<line class="axis" x1="90" y1="410" x2="450" y2="410"/>
+<line x1="90" y1="387.2" x2="450" y2="387.2" stroke="#667085" stroke-dasharray="4 4"/>
+<text x="90.0" y="428" text-anchor="middle" font-size="10">0.0</text>
+<text x="162.0" y="428" text-anchor="middle" font-size="10">0.2</text>
+<text x="234.0" y="428" text-anchor="middle" font-size="10">0.4</text>
+<text x="306.0" y="428" text-anchor="middle" font-size="10">0.6</text>
+<text x="378.0" y="428" text-anchor="middle" font-size="10">0.8</text>
+<text x="450.0" y="428" text-anchor="middle" font-size="10">1.0</text>
+<polyline points="90.0,310.9 104.4,312.6 118.8,313.3 133.2,312.8 147.6,311.2 162.0,308.5 176.4,304.8 190.8,300.1 205.2,294.5 219.6,287.9 234.0,280.5 248.4,272.3 262.8,263.3 277.2,253.6 291.6,243.4 306.0,232.5 320.4,221.1 334.8,209.3 349.2,197.0 363.6,184.3 378.0,171.3 392.4,158.0 406.8,144.5 421.2,130.8 435.6,116.8 450.0,102.8" fill="none" stroke="#2563eb" stroke-width="2"/>
+<polyline points="90.0,382.6 104.4,382.6 118.8,381.6 133.2,379.6 147.6,376.6 162.0,372.7 176.4,367.8 190.8,362.1 205.2,355.4 219.6,348.0 234.0,339.7 248.4,330.7 262.8,321.0 277.2,310.6 291.6,299.6 306.0,288.1 320.4,276.0 334.8,263.4 349.2,250.4 363.6,237.0 378.0,223.2 392.4,209.2 406.8,194.8 421.2,180.3 435.6,165.5 450.0,150.6" fill="none" stroke="#ea580c" stroke-width="2"/>
+<circle cx="118.8" cy="313.3" r="5" fill="#2563eb" stroke="white" stroke-width="1.5"/>
+<text x="270.0" y="452" text-anchor="middle" font-size="12">Drift factor lambda</text>
+<text x="715.0" y="72" text-anchor="middle" font-size="15" font-weight="700">120-day history</text>
+<line class="grid" x1="535" y1="410.0" x2="895" y2="410.0"/>
+<text x="527" y="414.0" text-anchor="end" font-size="10">0.243</text>
+<line class="grid" x1="535" y1="327.5" x2="895" y2="327.5"/>
+<text x="527" y="331.5" text-anchor="end" font-size="10">0.246</text>
+<line class="grid" x1="535" y1="245.0" x2="895" y2="245.0"/>
+<text x="527" y="249.0" text-anchor="end" font-size="10">0.249</text>
+<line class="grid" x1="535" y1="162.5" x2="895" y2="162.5"/>
+<text x="527" y="166.5" text-anchor="end" font-size="10">0.252</text>
+<line class="grid" x1="535" y1="80.0" x2="895" y2="80.0"/>
+<text x="527" y="84.0" text-anchor="end" font-size="10">0.256</text>
+<line class="axis" x1="535" y1="80" x2="535" y2="410"/>
+<line class="axis" x1="535" y1="410" x2="895" y2="410"/>
+<line x1="535" y1="224.3" x2="895" y2="224.3" stroke="#667085" stroke-dasharray="4 4"/>
+<text x="535.0" y="428" text-anchor="middle" font-size="10">0.0</text>
+<text x="607.0" y="428" text-anchor="middle" font-size="10">0.2</text>
+<text x="679.0" y="428" text-anchor="middle" font-size="10">0.4</text>
+<text x="751.0" y="428" text-anchor="middle" font-size="10">0.6</text>
+<text x="823.0" y="428" text-anchor="middle" font-size="10">0.8</text>
+<text x="895.0" y="428" text-anchor="middle" font-size="10">1.0</text>
+<polyline points="535.0,314.0 549.4,316.8 563.8,318.6 578.2,319.6 592.6,319.6 607.0,318.7 621.4,317.0 635.8,314.3 650.2,310.7 664.6,306.3 679.0,301.0 693.4,294.9 707.8,287.9 722.2,280.2 736.6,271.6 751.0,262.2 765.4,252.1 779.8,241.2 794.2,229.6 808.6,217.3 823.0,204.3 837.4,190.6 851.8,176.3 866.2,161.3 880.6,145.8 895.0,129.6" fill="none" stroke="#2563eb" stroke-width="2"/>
+<polyline points="535.0,352.6 549.4,356.1 563.8,358.5 578.2,360.0 592.6,360.4 607.0,359.8 621.4,358.3 635.8,355.7 650.2,352.2 664.6,347.8 679.0,342.4 693.4,336.1 707.8,328.9 722.2,320.8 736.6,311.9 751.0,302.1 765.4,291.4 779.8,280.0 794.2,267.8 808.6,254.9 823.0,241.2 837.4,226.9 851.8,211.8 866.2,196.1 880.6,179.8 895.0,162.8" fill="none" stroke="#ea580c" stroke-width="2"/>
+<circle cx="592.6" cy="319.6" r="5" fill="#2563eb" stroke="white" stroke-width="1.5"/>
+<text x="715.0" y="452" text-anchor="middle" font-size="12">Drift factor lambda</text>
+<text x="20" y="245" transform="rotate(-90 20 245)" text-anchor="middle" font-size="12">Mean Brier score</text>
+<line x1="375" y1="475" x2="399" y2="475" stroke="#2563eb" stroke-width="3"/>
+<text x="405" y="479" font-size="11">Calibration</text>
+<line x1="505" y1="475" x2="529" y2="475" stroke="#ea580c" stroke-width="3"/>
+<text x="535" y="479" font-size="11">Held-out</text>
+<line x1="635" y1="475" x2="659" y2="475" stroke="#667085" stroke-dasharray="4 4"/>
+<text x="665" y="479" font-size="11">Brier score of 0.5 forecast</text>
+</svg>

@@ -1,0 +1,7 @@
+parameter,selected_value,selection_count,number_of_seeds
+lambda_30d,0.08,2,3
+lambda_30d,0.12,1,3
+lambda_120d,0.16,2,3
+lambda_120d,0.24,1,3
+inventory_cap,2,2,3
+inventory_cap,20,1,3
